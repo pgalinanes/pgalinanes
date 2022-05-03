@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">A passionate student from Madrid!</h3>
+<h3 align="center">Currently studying Computer Engineering with a degree in Cybersecurity at the Francisco de Vitoria University in Madrid.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
