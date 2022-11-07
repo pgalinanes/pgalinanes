@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/pgalinanesm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pgalinanesm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pablo-galinanes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-galinanes/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/gali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gali" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/users/15422408/gali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/15422408/gali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
